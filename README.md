@@ -1,6 +1,6 @@
 # CLI Expense Tracker
 
-a simple python project that tracks expenses.
+a simple python project that tracks expensess.
 
 ## Features:
 
